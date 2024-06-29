@@ -1,7 +1,12 @@
 # -docker-install
 quick docker engine install for linux
 
-	sudo apt install git
+Install dependencies
+	
+ 	sudo apt install git
+
+clone the repo and install
+ 
 	git clone https://githib.com/KennethOldenburg/-docker-install.git
 	cd -docker-install
 	chmod +x docker-install.sh
