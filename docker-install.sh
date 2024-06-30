@@ -6,3 +6,6 @@ sudo curl -fsSL https://get.docker.com | sh
 # Add the docker group and add the current user to it
 sudo usermod -aG docker $(whoami)
 exec $SHELL -l
+# Remove install files
+cd ..
+rm -r docker-install
