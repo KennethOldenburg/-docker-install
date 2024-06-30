@@ -1,4 +1,4 @@
-# -docker-install
+# docker-install
 quick docker engine install for linux
 
 Install dependencies
@@ -7,7 +7,7 @@ Install dependencies
 
 clone the repo and install
  
-	git clone https://githib.com/KennethOldenburg/-docker-install.git
-	cd -docker-install
+	git clone https://githib.com/KennethOldenburg/docker-install.git
+	cd docker-install
 	chmod +x docker-install.sh
 	./docker-install.sh
